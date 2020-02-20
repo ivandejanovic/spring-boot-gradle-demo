@@ -1,4 +1,4 @@
-package com.example.springbootgradledemo;
+package com.quine.springbootgradledemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
